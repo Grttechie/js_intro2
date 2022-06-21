@@ -13,7 +13,7 @@ if (operation == "+"){
     window.alert("result=" + z);
 }
 
-//substraction
+//subtraction
 else if(operation == "-"){
     z = int_x - int_y;
     window.alert("result=" + z);
